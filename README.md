@@ -6,7 +6,7 @@
 ### Tags:
 - [public]/[private]: Data provider is a public insitution / private company.
 - [free]/[paying]: Data is available for free / is paying.
-- [research-plan]: Data can be accessible is cheaper / free if you're a researcher.
+- [research-plan]: Data is cheaper / free if you're a researcher.
 - [open]/[closed]: Anyone can access this data without application / research team only. (Apply for public data only)
 - [micro]/[macro]: Micro or macro data.
 - [comprehensive]: Is the dataset comprehensive? (only for Micro)
@@ -33,5 +33,5 @@
 - [World Bank Open Data](https://datacatalog.worldbank.org) [public][open][free]: International data on development, energy, inequalities...
 
 ## Patents <a name="patents"></a>
-- [PatStat](https://www.epo.org/searching-for-patents/business/patstat.html) [public][open][paying]: International Patent data.
 - [PatentsView](http://www.patentsview.org) [public][open][free]: US Patent comprehensive database with inventor disambiguation.
+- [PatStat](https://www.epo.org/searching-for-patents/business/patstat.html) [public][open][paying]: International Patent data.
