@@ -23,10 +23,11 @@
 - [Crunchbase](https://data.crunchbase.com/docs) [private][paying][research-plan]: Investments and funding information, founding members and individuals in leadership positions, mergers and acquisitions, news, and industry trends.
 - [World Bank Entreprise Survey](https://www.enterprisesurveys.org) [public][closed][free]: Economic data on firms from 141 countries.
 
-## Households <a name="households"></a>
+## Households & Individuals <a name="households"></a>
 - [Indonesian life survey](https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS.html) [private][free]: Longitudinal survey in Indonesia covering 80% of the population.
 - [Living Standards Measurement Study](https://microdata.worldbank.org/index.php/catalog/lsms) [public][free]: International household-level surveys.
 - [Mexican Family Life Survey](http://www.ennvih-mxfls.org/) [public][open][free]: longitudinal survey of individuals, households, families and communities.
+- [New York City public school](https://infohub.nyced.org/reports-and-policies/research/doing-research-in-new-york-city-public-schools) [public][closed][free]: Data on NYC students at the individual level. Aggregation at school level is available freely.
 
 ## Macroeconomics <a name="macroeconomics"></a>
 - [DBnomics](https://db.nomics.world) [public][open][free]: Macroeconomics and public data providers aggregator (OECD, Eurostat, IMF, ECB, ...).
