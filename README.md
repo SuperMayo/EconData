@@ -1,5 +1,5 @@
-# Datasets
-Non comprehensive list of datasets in the nature.
+# EconData
+(Non) comprehensive list of economics-related datasets available in nature.
 
 *Spot an error? Want to add a source? Feel free to make a pull request !*
 
