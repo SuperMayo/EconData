@@ -21,6 +21,7 @@
 ## Firms <a name="firms"></a>
 - [Compustat](https://www.spglobal.com/marketintelligence/en/?product=compustat-research-insight) [private][paying]: Financial, statistical and market information on active and inactive global companies throughout the world.
 - [Crunchbase](https://data.crunchbase.com/docs) [private][paying][research-plan]: Investments and funding information, founding members and individuals in leadership positions, mergers and acquisitions, news, and industry trends.
+- [Orbis](https://www.bvdinfo.com/our-products/company-information/international-products/orbis) [private][paying]:  Information on more than 310 million companies accross the world.
 - [World Bank Entreprise Survey](https://www.enterprisesurveys.org) [public][closed][free]: Economic data on firms from 141 countries.
 
 ## Households & Individuals <a name="households"></a>
