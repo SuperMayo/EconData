@@ -7,7 +7,7 @@
 - [public]/[private]: Data provider is a public insitution / private company.
 - [free]/[paying]: Data is available for free / is paying.
 - [research-plan]: Data is cheaper / free if you're a researcher.
-- [open]/[closed]: Anyone can access this data without application / research team only. (Apply for public data only)
+- [open]/[closed]: Anyone can access this data without application / research team only.
 - [micro]/[macro]: Micro or macro data.
 - [comprehensive]: Is the dataset comprehensive? (only for Micro)
 
@@ -16,6 +16,7 @@
 - [Firms](#firms)
 - [Households](#households)
 - [Macroeconomics](#macroeconomics)
+- [Misc](#misc)
 - [Patents](#patents)
 
 ## Firms <a name="firms"></a>
@@ -34,6 +35,10 @@
 - [DBnomics](https://db.nomics.world) [public][open][free]: Macroeconomics and public data providers aggregator (OECD, Eurostat, IMF, ECB, ...).
 - [IMF](https://www.imf.org/en/Data) [public][open][free]: International time series for aggregated variables such as GDP, inflation...
 - [World Bank Open Data](https://datacatalog.worldbank.org) [public][open][free]: International data on development, energy, inequalities...
+
+## Misc <a name="misc"></a>
+- [ECB speeches](https://www.ecb.europa.eu/press/key/html/downloads.en.html) [public][open][free]: Dataset containing the content of all european central bank speeches together with limited metadata.
+- [Google political Ads](https://transparencyreport.google.com/political-ads/home) [private][open][free]: Information about spending on ads related to elections.
 
 ## Patents <a name="patents"></a>
 - [PatentsView](http://www.patentsview.org) [public][open][free]: US Patent comprehensive database with inventor disambiguation.
